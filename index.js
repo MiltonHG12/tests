@@ -19,5 +19,5 @@ app.use(routes);
 
 app.listen(3000, function(){
 	console.log('App ID =',app.get('appName'));
-	console.log('Server Is Running');
+	console.log('Server Is Running...');
 });
